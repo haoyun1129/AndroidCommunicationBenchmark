@@ -1,3 +1,4 @@
 [submodule "objectstorage"]
 	path = objectstorage
-	url = https://github.com/dcale/Simple-Object-Storage.git
+	url = https://github.com/haoyun1129/Simple-Object-Storage.git
+
